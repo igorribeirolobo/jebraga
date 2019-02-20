@@ -24,7 +24,7 @@ $hesk_settings['languages']=array(
 $hesk_settings['db_host']='localhost';
 $hesk_settings['db_name']='hesk';
 $hesk_settings['db_user']='root';
-$hesk_settings['db_pass']='';
+$hesk_settings['db_pass']='u8)}aTpg(_B';
 $hesk_settings['db_pfix']='hesk_';
 $hesk_settings['db_vrsn']=1;
 
